@@ -1,0 +1,29 @@
+
+.worldstime-header-hbox {
+	min-width:auto;
+	width: auto;
+	padding-top:15px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.worldstime-label-hbox {
+	min-width:auto;
+	width: auto;
+	padding-right:5px;
+}
+
+.worldstime-clock-hbox {
+	min-width:auto;
+	width: auto;
+}
+
+.worldstime-label {
+	text-align:right !important;
+	width:70%;
+}
+
+.worldstime-clock {
+	text-align:right !important;
+	width:30%;
+}
